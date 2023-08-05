@@ -9,46 +9,11 @@
   <img align="center" alt="edugod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Projects
-
-### [Project 1]
-
-[Include a brief description of your project and its key features. Provide a link to the project repository and, if available, a live demo.]
-
-### [Project 2]
-
-[Include a brief description of your project and its key features. Provide a link to the project repository and, if available, a live demo.]
-
-[Continue adding more projects as needed]
-
-## Connect with Me
-
-- [Add your LinkedIn profile URL]
-- [Add your Twitter profile URL]
-- [Add your personal website URL]
-- [Add any other relevant social media profiles]
-
-## Contact
-
-[Include your email address or other contact information if you're comfortable sharing it.]
-
-## Fun Fact
-
-[Add a fun fact about yourself to show your personality and make your profile more engaging.]
-
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=edugod&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
-
-## Top Languages
-
-![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edugod&layout=compact&hide=html,css&theme=radical)
-
-## Contributions
-
-[If you've made significant contributions to other open-source projects, mention them here.]
-
-## Open for Opportunities
-
-[If you're open to job opportunities or collaboration, mention it here.]
-
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/dududueduty" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:eduardoandrelange@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardolange" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
