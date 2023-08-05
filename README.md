@@ -1,4 +1,4 @@
-<h1>Hello everyone! I'm Eduardo Lange 😁</h1>
+## Hello everyone! I'm Eduardo Lange 👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="edugod-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
