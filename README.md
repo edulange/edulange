@@ -1,5 +1,9 @@
 ## Hello everyone! I'm Eduardo Lange 👋
 
+I'm full-stack developer from Brazil, currently working as tech-support.
+
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="edugod-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="edugod-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
