@@ -1,4 +1,4 @@
-<a align="right" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fedugod%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fedugod%2F&countColor=%232ccce4&style=flat" /></a>
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fedugod%2F&countColor=%23f47373&style=flat&labelStyle=upper" />
 ## Hello everyone! I'm Eduardo Lange 👋
 
 I'm full-stack developer from Brazil 🇧🇷, currently working as tech-support.
