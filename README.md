@@ -1,3 +1,4 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fedugod%2F&countColor=%232ccce4&style=flat)
 ## Hello everyone! I'm Eduardo Lange 👋
 
 I'm full-stack developer from Brazil, currently working as tech-support.
