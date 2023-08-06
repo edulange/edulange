@@ -1,7 +1,13 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fedugod%2F&countColor=%23f47373&style=flat&labelStyle=upper" />
+
+<div align="center">
 <h1>Hello everyone! I'm Eduardo Lange 👋</h1>
 
 I'm full-stack developer from Brazil 🇧🇷, currently working as tech-support.
+ 
+ 🔭 I’m currently working on **Result Mais Sistemas**
+ 
+ 🌱 I’m currently learning **React, NodeJS, MongoDB and RESTful API**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="edugod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,6 +17,8 @@ I'm full-stack developer from Brazil 🇧🇷, currently working as tech-support
   <img align="center" alt="edugod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="edugod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+ 
+ </div>
   
   
   ##
