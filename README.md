@@ -3,11 +3,11 @@
 <div align="center">
 <h1>Hello everyone! I'm Eduardo Lange 👋</h1>
 
-I'm full-stack developer from Brazil
+ 🔥 I'm full-stack developer from Brazil
  
  🔭 I’m currently working on **Result Mais Sistemas**
  
- 🌱 I’m currently learning **React, NodeJS, MongoDB and RESTfuls API**
+ 📚 I’m currently learning **React, NodeJS, MongoDB and RESTfuls API**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="edugod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
