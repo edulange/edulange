@@ -1,7 +1,7 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fedugod%2F&countColor=%232ccce4&style=flat)
+<a align="right" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fedugod%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fedugod%2F&countColor=%232ccce4&style=flat" /></a>
 ## Hello everyone! I'm Eduardo Lange 👋
 
-I'm full-stack developer from Brazil, currently working as tech-support.
+I'm full-stack developer from Brazil 🇧🇷, currently working as tech-support.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="edugod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
