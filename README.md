@@ -5,7 +5,7 @@
 
  🔥 I'm full-stack developer from Brazil
  
- 🔭 I’m currently working at **Result Mais Sistemas**
+ 🔭 I’m currently working at **Phillip Morris International**
  
  📚 I’m currently learning **React, NodeJS, MongoDB and RESTfuls API**
 
